@@ -1,7 +1,7 @@
 # Xiaomi Air Purifier -- Filter Reset Command Generator
 
 🔥 **Live Tool:**\
-👉 **https://bloodynite.github.io/reset-filter-xiaomi-purifier/**\
+👉 **https://bloodynite.github.io/reset-filter-xiaomi-purifier**
 *(Free, no login required, runs entirely in your browser)*
 ------------------------------------------------------------------------
 
