@@ -1,5 +1,7 @@
 # Xiaomi Air Purifier – Filter Reset Command Generator
 
+SITE ['https://bloodynite.github.io/reset-filter-xiaomi-purifier/']
+
 A simple web-based tool that generates the **filter-reset command** required by many Xiaomi Air Purifier models (3H, Pro, 4 Pro, Mi Pro H, and others).  
 The tool converts the device serial number (UUID) into a SHA-1–based command sequence used by the purifier’s internal protocol.
 
