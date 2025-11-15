@@ -219,12 +219,6 @@ function sha1(message){
   const out = [h0,h1,h2,h3,h4].map(h => ('00000000' + (h>>>0).toString(16)).slice(-8)).join('');
   return out;
 }
-
-// auto-generate using sample value on load for convenience
-window.addEventListener('load', ()=>{
-  input.value = '53:38:6C:F3:71:00:01';
-  document.getElementById('gen').click();
-});
 </script>
 </body>
 </html>
